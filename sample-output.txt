@@ -1,0 +1,99 @@
+2025-12-30 close price: 454.4300 previous_date 2025-12-29 previous close:459.6400 pct change:1.15 
+2025-12-29 close price: 459.6400 previous_date 2025-12-26 previous close:475.1900 pct change:3.38 
+2025-12-26 close price: 475.1900 previous_date 2025-12-24 previous close:485.4000 pct change:2.15
+2025-12-24 close price: 485.4000 previous_date 2025-12-23 previous close:485.5600 pct change:0.03
+2025-12-23 close price: 485.5600 previous_date 2025-12-22 previous close:488.7300 pct change:0.65
+2025-12-22 close price: 488.7300 previous_date 2025-12-19 previous close:481.2000 pct change:1.54
+2025-12-19 close price: 481.2000 previous_date 2025-12-18 previous close:483.3700 pct change:0.45
+2025-12-18 close price: 483.3700 previous_date 2025-12-17 previous close:467.2600 pct change:3.33
+2025-12-17 close price: 467.2600 previous_date 2025-12-16 previous close:489.8800 pct change:4.84
+2025-12-16 close price: 489.8800 previous_date 2025-12-15 previous close:475.3100 pct change:2.97
+2025-12-15 close price: 475.3100 previous_date 2025-12-12 previous close:458.9600 pct change:3.44
+2025-12-12 close price: 458.9600 previous_date 2025-12-11 previous close:446.8900 pct change:2.63
+2025-12-11 close price: 446.8900 previous_date 2025-12-10 previous close:451.4500 pct change:1.02
+2025-12-10 close price: 451.4500 previous_date 2025-12-09 previous close:445.1700 pct change:1.39
+2025-12-09 close price: 445.1700 previous_date 2025-12-08 previous close:439.5800 pct change:1.26
+2025-12-08 close price: 439.5800 previous_date 2025-12-05 previous close:455.0000 pct change:3.51
+2025-12-05 close price: 455.0000 previous_date 2025-12-04 previous close:454.5300 pct change:0.1
+2025-12-04 close price: 454.5300 previous_date 2025-12-03 previous close:446.7400 pct change:1.71
+2025-12-03 close price: 446.7400 previous_date 2025-12-02 previous close:429.2400 pct change:3.92
+2025-12-02 close price: 429.2400 previous_date 2025-12-01 previous close:430.1400 pct change:0.21
+2025-12-01 close price: 430.1400 previous_date 2025-11-28 previous close:430.1700 pct change:0.01
+2025-11-28 close price: 430.1700 previous_date 2025-11-26 previous close:426.5800 pct change:0.83
+2025-11-26 close price: 426.5800 previous_date 2025-11-25 previous close:419.4000 pct change:1.68
+2025-11-25 close price: 419.4000 previous_date 2025-11-24 previous close:417.7800 pct change:0.39
+2025-11-24 close price: 417.7800 previous_date 2025-11-21 previous close:391.0900 pct change:6.39 GREATER 5% CHANGE
+2025-11-21 close price: 391.0900 previous_date 2025-11-20 previous close:395.2300 pct change:1.06
+2025-11-20 close price: 395.2300 previous_date 2025-11-19 previous close:403.9900 pct change:2.22
+2025-11-19 close price: 403.9900 previous_date 2025-11-18 previous close:401.2500 pct change:0.68
+2025-11-18 close price: 401.2500 previous_date 2025-11-17 previous close:408.9200 pct change:1.91
+2025-11-17 close price: 408.9200 previous_date 2025-11-14 previous close:404.3500 pct change:1.12
+2025-11-14 close price: 404.3500 previous_date 2025-11-13 previous close:401.9900 pct change:0.58
+2025-11-13 close price: 401.9900 previous_date 2025-11-12 previous close:430.6000 pct change:7.12 GREATER 5% CHANGE
+2025-11-12 close price: 430.6000 previous_date 2025-11-11 previous close:439.6200 pct change:2.09
+2025-11-11 close price: 439.6200 previous_date 2025-11-10 previous close:445.2300 pct change:1.28
+2025-11-10 close price: 445.2300 previous_date 2025-11-07 previous close:429.5200 pct change:3.53
+2025-11-07 close price: 429.5200 previous_date 2025-11-06 previous close:445.9100 pct change:3.82
+2025-11-06 close price: 445.9100 previous_date 2025-11-05 previous close:462.0700 pct change:3.62
+2025-11-05 close price: 462.0700 previous_date 2025-11-04 previous close:444.2600 pct change:3.85
+2025-11-04 close price: 444.2600 previous_date 2025-11-03 previous close:468.3700 pct change:5.43 GREATER 5% CHANGE
+2025-11-03 close price: 468.3700 previous_date 2025-10-31 previous close:456.5600 pct change:2.52
+2025-10-31 close price: 456.5600 previous_date 2025-10-30 previous close:440.1000 pct change:3.61
+2025-10-30 close price: 440.1000 previous_date 2025-10-29 previous close:461.5100 pct change:4.86
+2025-10-29 close price: 461.5100 previous_date 2025-10-28 previous close:460.5500 pct change:0.21
+2025-10-28 close price: 460.5500 previous_date 2025-10-27 previous close:452.4200 pct change:1.77
+2025-10-27 close price: 452.4200 previous_date 2025-10-24 previous close:433.7200 pct change:4.13
+2025-10-24 close price: 433.7200 previous_date 2025-10-23 previous close:448.9800 pct change:3.52
+2025-10-23 close price: 448.9800 previous_date 2025-10-22 previous close:438.9700 pct change:2.23
+2025-10-22 close price: 438.9700 previous_date 2025-10-21 previous close:442.6000 pct change:0.83
+2025-10-21 close price: 442.6000 previous_date 2025-10-20 previous close:447.4300 pct change:1.09
+2025-10-20 close price: 447.4300 previous_date 2025-10-17 previous close:439.3100 pct change:1.81
+2025-10-17 close price: 439.3100 previous_date 2025-10-16 previous close:428.7500 pct change:2.4
+2025-10-16 close price: 428.7500 previous_date 2025-10-15 previous close:435.1500 pct change:1.49
+2025-10-15 close price: 435.1500 previous_date 2025-10-14 previous close:429.2400 pct change:1.36
+2025-10-14 close price: 429.2400 previous_date 2025-10-13 previous close:435.9000 pct change:1.55
+2025-10-13 close price: 435.9000 previous_date 2025-10-10 previous close:413.4900 pct change:5.14 GREATER 5% CHANGE
+2025-10-10 close price: 413.4900 previous_date 2025-10-09 previous close:435.5400 pct change:5.33 GREATER 5% CHANGE
+2025-10-09 close price: 435.5400 previous_date 2025-10-08 previous close:438.6900 pct change:0.72
+2025-10-08 close price: 438.6900 previous_date 2025-10-07 previous close:433.0900 pct change:1.28
+2025-10-07 close price: 433.0900 previous_date 2025-10-06 previous close:453.2500 pct change:4.65
+2025-10-06 close price: 453.2500 previous_date 2025-10-03 previous close:429.8300 pct change:5.17 GREATER 5% CHANGE
+2025-10-03 close price: 429.8300 previous_date 2025-10-02 previous close:436.0000 pct change:1.44
+2025-10-02 close price: 436.0000 previous_date 2025-10-01 previous close:459.4600 pct change:5.38 GREATER 5% CHANGE
+2025-10-01 close price: 459.4600 previous_date 2025-09-30 previous close:444.7200 pct change:3.21
+2025-09-30 close price: 444.7200 previous_date 2025-09-29 previous close:443.2100 pct change:0.34
+2025-09-29 close price: 443.2100 previous_date 2025-09-26 previous close:440.4000 pct change:0.63
+2025-09-26 close price: 440.4000 previous_date 2025-09-25 previous close:423.3900 pct change:3.86
+2025-09-25 close price: 423.3900 previous_date 2025-09-24 previous close:442.7900 pct change:4.58
+2025-09-24 close price: 442.7900 previous_date 2025-09-23 previous close:425.8500 pct change:3.83
+2025-09-23 close price: 425.8500 previous_date 2025-09-22 previous close:434.2100 pct change:1.96
+2025-09-22 close price: 434.2100 previous_date 2025-09-19 previous close:426.0700 pct change:1.87
+2025-09-19 close price: 426.0700 previous_date 2025-09-18 previous close:416.8500 pct change:2.16
+2025-09-18 close price: 416.8500 previous_date 2025-09-17 previous close:425.8600 pct change:2.16
+2025-09-17 close price: 425.8600 previous_date 2025-09-16 previous close:421.6200 pct change:1.0
+2025-09-16 close price: 421.6200 previous_date 2025-09-15 previous close:410.0400 pct change:2.75
+2025-09-15 close price: 410.0400 previous_date 2025-09-12 previous close:395.9400 pct change:3.44
+2025-09-12 close price: 395.9400 previous_date 2025-09-11 previous close:368.8100 pct change:6.85 GREATER 5% CHANGE
+2025-09-11 close price: 368.8100 previous_date 2025-09-10 previous close:347.7900 pct change:5.7 GREATER 5% CHANGE
+2025-09-10 close price: 347.7900 previous_date 2025-09-09 previous close:346.9700 pct change:0.24
+2025-09-09 close price: 346.9700 previous_date 2025-09-08 previous close:346.4000 pct change:0.16
+2025-09-08 close price: 346.4000 previous_date 2025-09-05 previous close:350.8400 pct change:1.28
+2025-09-05 close price: 350.8400 previous_date 2025-09-04 previous close:338.5300 pct change:3.51
+2025-09-04 close price: 338.5300 previous_date 2025-09-03 previous close:334.0900 pct change:1.31
+2025-09-03 close price: 334.0900 previous_date 2025-09-02 previous close:329.3600 pct change:1.42
+2025-09-02 close price: 329.3600 previous_date 2025-08-29 previous close:333.8700 pct change:1.37
+2025-08-29 close price: 333.8700 previous_date 2025-08-28 previous close:345.9800 pct change:3.63
+2025-08-28 close price: 345.9800 previous_date 2025-08-27 previous close:349.6000 pct change:1.05
+2025-08-27 close price: 349.6000 previous_date 2025-08-26 previous close:351.6700 pct change:0.59
+2025-08-26 close price: 351.6700 previous_date 2025-08-25 previous close:346.6000 pct change:1.44
+2025-08-25 close price: 346.6000 previous_date 2025-08-22 previous close:340.0100 pct change:1.9
+2025-08-22 close price: 340.0100 previous_date 2025-08-21 previous close:320.1100 pct change:5.85 GREATER 5% CHANGE
+2025-08-21 close price: 320.1100 previous_date 2025-08-20 previous close:323.9000 pct change:1.18 
+2025-08-20 close price: 323.9000 previous_date 2025-08-19 previous close:329.3100 pct change:1.67
+2025-08-19 close price: 329.3100 previous_date 2025-08-18 previous close:335.1600 pct change:1.78
+2025-08-18 close price: 335.1600 previous_date 2025-08-15 previous close:330.5600 pct change:1.37
+2025-08-15 close price: 330.5600 previous_date 2025-08-14 previous close:335.5800 pct change:1.52
+2025-08-14 close price: 335.5800 previous_date 2025-08-13 previous close:339.3800 pct change:1.13
+2025-08-13 close price: 339.3800 previous_date 2025-08-12 previous close:340.8400 pct change:0.43
+2025-08-12 close price: 340.8400 previous_date 2025-08-11 previous close:339.0300 pct change:0.53
+2025-08-11 close price: 339.0300 previous_date 2025-08-08 previous close:329.6500 pct change:2.77
